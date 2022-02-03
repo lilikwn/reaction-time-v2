@@ -48,6 +48,9 @@ export default {
   color: #283593;
   margin-top: 60px;
 }
+#app h1{
+  color: #504539;
+}
 .button-play{
   border: 0px;
   background-color: #3F51B5;
